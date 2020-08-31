@@ -20,7 +20,7 @@
 
     ```shell
     # create a new Gatsby site using the default starter
-    gatsby new emotion_tailwind https://github.com/tombo-gokuraku/gatsby-starter-tailwind-lp
+    gatsby new tailp https://github.com/tombo-gokuraku/gatsby-starter-tailp
     ```
 
 1.  **Start developing.**
@@ -28,7 +28,7 @@
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd emotion_tailwind/
+    cd tailp/
     gatsby develop
     ```
 
